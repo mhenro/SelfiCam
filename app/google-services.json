@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1093103589465",
+    "firebase_url": "https://selficam-7ad69.firebaseio.com",
+    "project_id": "selficam-7ad69",
+    "storage_bucket": "selficam-7ad69.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1093103589465:android:f1c9cd3f1a011f4d",
+        "android_client_info": {
+          "package_name": "ru.mhenro.selficam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1093103589465-kj9dii47quumnolvf600bmcfpsv2aph5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6YtUMDcYULColisGIV0HDodtfp3Ch1hA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

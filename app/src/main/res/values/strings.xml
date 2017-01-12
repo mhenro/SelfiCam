@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SelfiCam</string>
+    <string name="btnFlash_on">Flash: on</string>
+    <string name="btnFlash_off">Flash: off</string>
+    <string name="btnFlash_auto">Flash: auto</string>
+
+    <string name="btnCamNumber_back">Cam: back</string>
+    <string name="btnCamNumber_front">Cam: front</string>
+
+    <string name="btnTake">TAKE!</string>
+</resources>
